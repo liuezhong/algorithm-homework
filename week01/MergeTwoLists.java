@@ -1,5 +1,3 @@
-import pojo.ListNode;
-
 public class MergeTwoLists {
 
     /**
